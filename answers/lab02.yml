@@ -1,0 +1,10 @@
+student_id: ""
+student_name: ""
+
+answers:
+  q1_hostname: ""
+  q1_actual_ip: ""
+  q3_synack_meaning: ""
+  q3_reset_meaning: ""
+  q4_version: ""
+  q4_risk: ""

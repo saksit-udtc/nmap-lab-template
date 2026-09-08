@@ -1,0 +1,10 @@
+student_id: ""
+student_name: ""
+
+answers:
+  q1_full_output: ""
+  q2_ports_found: ""
+  q3_os_guess: ""
+  q3_confidence: ""
+  q4_comparison: ""
+  q5_why_safe_target: ""
