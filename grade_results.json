@@ -1,0 +1,182 @@
+{
+  "total_score": 0,
+  "total_max": 37.0,
+  "labs": [
+    {
+      "student_id": "",
+      "student_name": "",
+      "lab": "lab01",
+      "score": 0,
+      "auto_gradable_max": 14.0,
+      "lab_total": 20,
+      "results": [
+        {
+          "question": "q1_target_ip",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 3
+        },
+        {
+          "question": "q2_time_seconds",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 1.5
+        },
+        {
+          "question": "q2_closed_ports",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 1.5
+        },
+        {
+          "question": "q4_os",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 2
+        },
+        {
+          "question": "q4_is_vm",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 2
+        },
+        {
+          "question": "q5_attack_name",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 2
+        },
+        {
+          "question": "q5_attack_year",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 2
+        }
+      ]
+    },
+    {
+      "student_id": "",
+      "student_name": "",
+      "lab": "lab02",
+      "score": 0,
+      "auto_gradable_max": 5.0,
+      "lab_total": 20,
+      "results": [
+        {
+          "question": "q1_hostname",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 1.5
+        },
+        {
+          "question": "q1_actual_ip",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 1.5
+        },
+        {
+          "question": "q4_version",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 2
+        }
+      ]
+    },
+    {
+      "student_id": "",
+      "student_name": "",
+      "lab": "lab03",
+      "score": 0,
+      "auto_gradable_max": 10,
+      "lab_total": 20,
+      "results": [
+        {
+          "question": "q1_total_ports",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 1
+        },
+        {
+          "question": "q1_time_seconds",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 1
+        },
+        {
+          "question": "q2_filtered_count",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 2
+        },
+        {
+          "question": "q3_open_ports",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 3
+        },
+        {
+          "question": "q3_closed_ports",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 3
+        }
+      ]
+    },
+    {
+      "student_id": "",
+      "student_name": "",
+      "lab": "lab04",
+      "score": 0,
+      "auto_gradable_max": 8,
+      "lab_total": 20,
+      "results": [
+        {
+          "question": "q1_feature_count",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 4
+        },
+        {
+          "question": "q3_os",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 2
+        },
+        {
+          "question": "q3_hop_count",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 2
+        }
+      ]
+    },
+    {
+      "student_id": "",
+      "student_name": "",
+      "lab": "lab05",
+      "score": 0,
+      "auto_gradable_max": 0,
+      "lab_total": 20,
+      "manual_grading": true,
+      "results": []
+    }
+  ]
+}
